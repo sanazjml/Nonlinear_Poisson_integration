@@ -1,4 +1,4 @@
-# Nonlinear_Poisson_integration
+# Nonlinear-Poisson-integration-model
 
 This repository includes the script used to develop a nonlinear poisson model to quantify the copy-number impact level on gene expression data in Ovarian cancer relating to this publication: 
 
